@@ -1,0 +1,12 @@
+This Dr. wahab solution for A4:
+
+Run tserver:
+% java panserver
+click START button.
+
+Run panclient:
+% java panclient
+To run as Audience client click START button.
+To run as Panelist client, check the PANELIST box the click START button.
+Run as many clients as you like.
+
